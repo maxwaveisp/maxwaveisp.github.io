@@ -72,3 +72,10 @@
 			display: block;
 			margin: 40px auto;
 		}
+				h2>a{
+			color: #d76028;
+			text-decoration: none;
+		}
+		h2>a:hover{
+			text-decoration: underline;
+		}
