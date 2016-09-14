@@ -72,10 +72,15 @@
 			display: block;
 			margin: 40px auto;
 		}
-				h2>a{
+		h2>a{
 			color: #d76028;
 			text-decoration: none;
+			border-bottom: 1px solid #d76028;
+			color: #d76028;
+			background-color: #fff;
 		}
 		h2>a:hover{
-			text-decoration: underline;
+			padding: 1px;
+			background-color: #fff;
+			border: 1px solid #d76028;
 		}
