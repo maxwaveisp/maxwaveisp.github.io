@@ -66,3 +66,9 @@
 			color: #fff;
 			background-color: #d76028;
 		}
+				.imagul{
+			max-width:600px;
+			height: auto;
+			display: block;
+			margin: 40px auto;
+		}
