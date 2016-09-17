@@ -1,4 +1,5 @@
 		body{
+			/*font-family:'Rubik';*/
 			font-family: 'Varela Round', sans-serif;
 			font-weight: 400;
 			font-style: normal;
@@ -38,10 +39,18 @@
 			font-style: normal;
 			font-weight: 400;
 		}
+		h2>a{
+			color: #d76028;
+			text-decoration: none;
+		}
+		h2>a:hover{
+			text-decoration: underline;
+		}
 		p{
 			color: #919395;
 		}
 		h2,p{
+			margin-top: 40px;
 			text-align: center;
 		}
 		.box form{
@@ -66,21 +75,9 @@
 			color: #fff;
 			background-color: #d76028;
 		}
-				.imagul{
-			max-width:400px;
+		.imagul{
+			max-width:600px;
 			height: auto;
 			display: block;
 			margin: 40px auto;
-		}
-		h2>a{
-			color: #d76028;
-			text-decoration: none;
-			border-bottom: 1px solid #d76028;
-			color: #d76028;
-			background-color: #fff;
-		}
-		h2>a:hover{
-			padding: 1px;
-			background-color: #fff;
-			border: 1px solid #d76028;
 		}
